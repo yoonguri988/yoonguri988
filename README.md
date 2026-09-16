@@ -72,4 +72,33 @@ Spring Boot 기반 백엔드를 중심으로, React 프론트엔드와 AI · 외
 
 ## 📌 Pinned Projects
 
-<table> <tr> <td width="50%" align="center"> <img src="https://github.com/yoonguri988/yoonguri988/blob/8a8f4214be5aa3d03d8c3407a6cf5417370ec2e3/sberp_thumsnail.png" width="100%" height="250px"/> </a> <br/> <a href="https://github.com/yoonguri988/spring-breeze-erp"><b>spring-breeze-erp</b></a> <br/> spring-breeze-ERP 시스템 V1 ~ V3 </td> <td width="50%" align="center"> <a href="https://github.com/yoonguri988/2026-AI-FULLSTACK"> <img src="https://opengraph.githubassets.com/1/yoonguri988/2026-AI-FULLSTACK" width="100%"/> </a> <br/> <a href="https://github.com/yoonguri988/2026-AI-FULLSTACK"><b>2026-AI-FULLSTACK</b></a> <br/> AI활용 풀스택(프론트엔드, 백엔드) 부트캠프 (자바, 파이썬, 플러터) </td> </tr> <tr> <td width="50%" align="center"> <a href="https://github.com/yoonguri988/ai-data-domain-classifier"> <img src="https://opengraph.githubassets.com/1/yoonguri988/ai-data-domain-classifier" width="100%"/> </a> <br/> <a href="https://github.com/yoonguri988/ai-data-domain-classifier"><b>ai-data-domain-classifier</b></a> <br/> personal: AI 기반 데이터 표준 도메인 추천 시스템 </td> <td width="50%" align="center"> <a href="https://github.com/yoonguri988/sberp"> <img src="https://github.com/yoonguri988/yoonguri988/blob/8a8f4214be5aa3d03d8c3407a6cf5417370ec2e3/sberp_thumsnail.png" width="100%" height="250px"/> </a> <br/> <a href="https://github.com/yoonguri988/sberp"><b>sberp</b></a> <br/> spring-breeze-ERP 시스템 V4 (python[pandas] + Django) </td> </tr> </table>
+<table>
+  <tr>
+    <td width="50%" align="center"> 
+      <img src="https://github.com/yoonguri988/yoonguri988/blob/8a8f4214be5aa3d03d8c3407a6cf5417370ec2e3/sberp_thumsnail.png" width="100%" height="250px"/>
+      <br/>
+      <a href="https://github.com/yoonguri988/sberp"><b>sberp</b></a> 
+      <br/> spring-breeze-ERP 시스템 V4 (python[pandas] + Django) 
+    </td>
+    <td width="50%" align="center"> 
+      <img src="https://github.com/yoonguri988/yoonguri988/blob/8a8f4214be5aa3d03d8c3407a6cf5417370ec2e3/sberp_thumsnail.png" width="100%" height="250px"/> 
+      <br/>
+      <a href="https://github.com/yoonguri988/spring-breeze-erp"><b>spring-breeze-erp</b></a>
+      <br/>spring-breeze-ERP 시스템 V1 ~ V3
+    </td> 
+  </tr> 
+  <tr> 
+    <td width="50%" align="center">
+      <img src="https://github.com/yoonguri988/yoonguri988/blob/f3c6d6ad9777788540b22e338d24455cc498a020/data_domain_classifier.png" width="100%" height="250px"/>
+      <br/>
+      <a href="https://github.com/yoonguri988/ai-data-domain-classifier"><b>ai-data-domain-classifier</b></a> 
+      <br/> personal: AI 기반 데이터 표준 도메인 추천 시스템 
+    </td>
+    <td width="50%" align="center"> 
+      <img src="https://opengraph.githubassets.com/1/yoonguri988/2026-AI-FULLSTACK" width="100%" height="250px"/>
+      <br/>
+      <a href="https://github.com/yoonguri988/2026-AI-FULLSTACK"><b>2026-AI-FULLSTACK</b></a>
+      <br/> AI활용 풀스택(프론트엔드, 백엔드) 부트캠프 (자바, 파이썬, 플러터) 
+    </td>
+  </tr> 
+</table>
