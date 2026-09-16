@@ -1,8 +1,8 @@
-<h1 align="center">안녕하세요, “왜?”에서 시작해서 “됐다!”로 끝내는 개발자 입니다 👋</h1>
+<h1 align="center">“왜?”에서 시작해서 “됐다!”로 끝내는 개발자 👋</h1>
 
 <p align="center">
 Spring Boot 기반 백엔드를 중심으로, React 프론트엔드와 AI · 외부 API 연동까지 직접 설계하고 구현하는 <b>풀스택 주니어 개발자</b>입니다.<br/>
-"사원 한 명의 데이터가 여러 도메인을 끊김 없이 흐르게 만드는 것"처럼, 도메인 간 경계와 데이터 정합성을 고민하는 걸 좋아합니다.
+복잡한 비즈니스 로직을 데이터 정합성 · 신뢰성 · 안정성의 관점에서 분석하고<br/>트랜잭션 경계와 예외 처리를 통해 견고한 구조로 풀어내는 것을 지향합니다.
 </p>
 
 <p align="center">
@@ -19,8 +19,6 @@ Spring Boot 기반 백엔드를 중심으로, React 프론트엔드와 AI · 외
     />
   </a>
 </p>
-
----
 
 ## 🛠 Tech Stack
 
@@ -74,37 +72,4 @@ Spring Boot 기반 백엔드를 중심으로, React 프론트엔드와 AI · 외
 
 ## 📌 Pinned Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/yoonguri988/spring-breeze-erp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoonguri988&repo=spring-breeze-erp" width="100%"/>
-</a>
-spring-breeze 팀과 함께 1차(JSP·MySQL) → 2차(Spring Boot·Oracle·AI) → 3차(Spring Boot 4·JPA·JWT+Redis·React/Next.js)까지 세 번 재구축한 HR 중심 통합 ERP 시스템입니다.<br/>
-🔗 <a href="https://github.com/yoonguri988/spring-breeze-erp">github.com/yoonguri988/spring-breeze-erp</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/yoonguri988/2026-AI-FULLSTACK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoonguri988&repo=2026-AI-FULLSTACK" width="100%"/>
-</a>
-AI 활용 풀스택(프론트엔드 · 백엔드) 부트캠프 실습 레포입니다. 자바 · 파이썬 · 플러터를 넘나들며 학습한 내용을 정리했습니다.<br/>
-🔗 <a href="https://github.com/yoonguri988/2026-AI-FULLSTACK">github.com/yoonguri988/2026-AI-FULLSTACK</a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/yoonguri988/ai-data-domain-classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoonguri988&repo=ai-data-domain-classifier" width="100%"/>
-</a>
-개인 프로젝트로, AI 기반 데이터 표준 도메인 추천 시스템입니다.<br/>
-🔗 <a href="https://github.com/yoonguri988/ai-data-domain-classifier">github.com/yoonguri988/ai-data-domain-classifier</a>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/yoonguri988/sberp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yoonguri988&repo=sberp" width="100%"/>
-</a>
-spring-breeze-erp V3 위에 개인적으로 얹은 V4입니다. GitHub Actions → AWS EC2 CI/CD 파이프라인을 구축하고, Python + Django(pandas)로 읽기 전용 급여 분석 서비스를 새로 개발했습니다.<br/>
-🔗 <a href="https://github.com/yoonguri988/sberp">github.com/yoonguri988/sberp</a>
-</td>
-</tr>
-</table>
+<table> <tr> <td width="50%" align="center"> <a href="https://github.com/yoonguri988/spring-breeze-erp"> <img src="https://opengraph.githubassets.com/1/yoonguri988/spring-breeze-erp" width="100%"/> </a> <br/> <a href="https://github.com/yoonguri988/spring-breeze-erp"><b>spring-breeze-erp</b></a> <br/> spring-breeze-ERP 시스템 V1 ~ V3 </td> <td width="50%" align="center"> <a href="https://github.com/yoonguri988/2026-AI-FULLSTACK"> <img src="https://opengraph.githubassets.com/1/yoonguri988/2026-AI-FULLSTACK" width="100%"/> </a> <br/> <a href="https://github.com/yoonguri988/2026-AI-FULLSTACK"><b>2026-AI-FULLSTACK</b></a> <br/> AI활용 풀스택(프론트엔드, 백엔드) 부트캠프 (자바, 파이썬, 플러터) </td> </tr> <tr> <td width="50%" align="center"> <a href="https://github.com/yoonguri988/ai-data-domain-classifier"> <img src="https://opengraph.githubassets.com/1/yoonguri988/ai-data-domain-classifier" width="100%"/> </a> <br/> <a href="https://github.com/yoonguri988/ai-data-domain-classifier"><b>ai-data-domain-classifier</b></a> <br/> personal: AI 기반 데이터 표준 도메인 추천 시스템 </td> <td width="50%" align="center"> <a href="https://github.com/yoonguri988/sberp"> <img src="https://opengraph.githubassets.com/1/yoonguri988/sberp" width="100%"/> </a> <br/> <a href="https://github.com/yoonguri988/sberp"><b>sberp</b></a> <br/> spring-breeze-ERP 시스템 V4 (python[pandas] + Django) </td> </tr> </table>
