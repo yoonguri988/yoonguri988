@@ -9,6 +9,9 @@ Spring Boot 기반 백엔드를 중심으로, React 프론트엔드와 AI · 외
   <a href="https://app.notion.com/p/4c6038944be7827d96c8815724615b5c?source=copy_link">
     <img src="https://img.shields.io/badge/Notion%20포트폴리오-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" />
   </a>
+  <a href="https://yoonguri988.github.io/2026-AI-FULLSTACK/">
+    <img src="https://img.shields.io/badge/GITHUB%20PAGES-포트폴리오%20웹페이지-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  </a>
 </p>
 
 <p align="center">
